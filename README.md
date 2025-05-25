@@ -24,10 +24,6 @@ Assets/ZooWorld/
 ├── UI/
 └── README.md
 
-yaml
-Копировать
-Редактировать
-
 ---
 
 ## 🧠 Architecture Highlights
